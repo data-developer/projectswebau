@@ -132,3 +132,13 @@ git add.
 git add .
 #1537264890
 git commit -m "testing"
+#1537265026
+git status
+#1537265064
+git push
+#1537265186
+git add .
+#1537265197
+git commit -m "style"
+#1537265205
+git log
