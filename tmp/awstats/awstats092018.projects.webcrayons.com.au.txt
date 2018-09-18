@@ -1,0 +1,274 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /home/projectswebau/tmp/awstats/awstats.projects.webcrayons.com.au.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2028                
+POS_TIME 2710                
+POS_VISITOR 3429                
+POS_DAY 3874                
+POS_DOMAIN 4050                
+POS_LOGIN 4310                
+POS_ROBOT 4465                
+POS_WORMS 4597                
+POS_EMAILSENDER 4728                
+POS_EMAILRECEIVER 4871                
+POS_SESSION 4947                
+POS_SIDER 5126                
+POS_FILETYPES 5351                
+POS_DOWNLOADS 5470                
+POS_OS 6389                
+POS_BROWSER 6517                
+POS_SCREENSIZE 6715                
+POS_UNKNOWNREFERER 6789                
+POS_UNKNOWNREFERERBROWSER 6902                
+POS_ORIGIN 7010                
+POS_SEREFERRALS 7143                
+POS_PAGEREFS 7287                
+POS_SEARCHWORDS 7435                
+POS_KEYWORDS 7587                
+POS_MISC 2374                
+POS_ERRORS 7646                
+POS_CLUSTER 4166                
+POS_SIDER_404 7754                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180918060257 123 26641 13415905149744
+FirstTime 20180917073429
+LastTime 20180918060257
+LastUpdate 20180918061318 123 0 123 0 0
+TotalVisits 10                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 33 2463 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 2 4 8586603 0 0 0
+6 2 3 4060302 0 1 0
+7 2 8 21231575 0 1 0
+8 0 3 13111476 0 2 0
+9 19 27 35282293 3 6 252
+10 2 2 0 1 5 1764525
+11 7 13 25760285 0 1 0
+12 0 0 0 0 0 0
+13 2 4 8586603 1 3 0
+14 1 3 476 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 2 4 8586603 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+103.78.149.4 20 34 61039068 20180917135317
+120.151.222.5 9 16 29820587 20180918060257 20180918051256 /sakawater/home-2.html
+117.197.13.6 4 9 17172254 20180917100431
+106.204.199.94 2 4 8586603 20180917180328
+14.201.105.117 2 4 8586603 20180917112059
+114.76.77.194 1 3 476 20180917140411
+139.59.42.246 1 1 625 20180917094851
+78.129.208.162 0 30 2232 
+91.199.212.132 0 3 231 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20180917 35 64 112559311 9
+20180918 4 40 12649368 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+in 26 47 86797925
+au 13 24 38408291
+gb 0 33 2463
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 5
+30s-2mn 1
+15mn-30mn 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/sakawater/home-1.html 16 5597 5 3
+/sakawater/home-2.html 12 5236 2 4
+/ 9 2322 3 2
+/sakawater/ 2 2123 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+jpg 32 125190938 0 0
+html 39 15278 0 0
+txt 33 2463 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 12
+/.well-known/pki-validation/348E667F1E32DFAF90FE2B2EA034CABD.txt 12 0 924
+/.well-known/pki-validation/DBD578685F751DB9463595A90ED1BE96.txt 5 0 385
+/.well-known/pki-validation/BDF0C0CBEB37B93408E448D6B2B418F6.txt 4 0 308
+/.well-known/pki-validation/7BC88FB29C42742EC04AB89DB250BCB4.txt 3 0 231
+/.well-known/pki-validation/E4C4EA5D98DED4437C7B2D3FB82AE248.txt 2 0 154
+/.well-known/pki-validation/15CF27F65216EEE948C51F4724AA4089.txt 1 0 64
+/.well-known/pki-validation/E046C650BCA57A9C8F6048B162A1D1E5.txt 1 0 64
+/.well-known/pki-validation/8506DB865B128235C9441F1102781D58.txt 1 0 64
+/.well-known/pki-validation/8CF126DD08C7D8581D73D8B42EDC183F.txt 1 0 77
+/.well-known/pki-validation/E3C82F17F6A7BE9B2154B14450F5F1F7.txt 1 0 64
+/.well-known/pki-validation/DD1EC335A324502F82E91B943400D994.txt 1 0 64
+/.well-known/pki-validation/3A05D1785D2EEBB4B17D6D1AE853312B.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 33 0
+win10 34 20
+macosx 10 5
+win7 10 5
+ios_iphone 17 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+safari12.0 4 2
+chrome68.0.3440.106 32 20
+safari11.1.2 4 2
+chrome69.0.3497.92 9 4
+Unknown 33 0
+opera55.0.2994.56 4 1
+safari11.0 17 9
+firefox33.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20180918004427
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20180918004427
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 37 79
+From1 1 1
+From2 0 0
+From3 0 0
+From4 1 24
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 3 0
+301 1 252
+206 5 1764525
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/sakawater/ 2 -
+/sakawater/home-2/.html 1 -
+END_SIDER_404

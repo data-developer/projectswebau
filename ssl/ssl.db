@@ -1,0 +1,78 @@
+--- 
+files: 
+  certificate: 
+    projects_webcrayons_com_au_a0808_87c5d_1568701280_fdc82326bf65083dfa705dd4c55616ed: 
+      created: '1537165280'
+      domains: 
+        - projects.webcrayons.com.au
+        - mail.projects.webcrayons.com.au
+        - www.projects.webcrayons.com.au
+      friendly_name: Cert for “projects.webcrayons.com.au”
+      id: projects_webcrayons_com_au_a0808_87c5d_1568701280_fdc82326bf65083dfa705dd4c55616ed
+      is_self_signed: 1
+      issuer.commonName: projects.webcrayons.com.au
+      issuer.organizationName: ~
+      modulus: a0808fb7dedeed3066a43a6f62c76d1053ba10775b373f5974daaa43c58ba0770f35f5e2ccb9a2fddec5ff6340fd515792fd2bbb47ff772baabf5064094684d16cb172bbcd0785c7838e9619deb2ff35bf2fb29e6d49f35c47f3ad5806b0fdd4a63cf1ebe7cfad1bc93546f39bfee1862a777db53d921e74361cdda0f949f015464151c054510b30dca0090009ad9b747bc186024c2842ea20e5a087bb692879b5df7566b1eafff32d14d1fe8887f05ba1a3ca29b9ea37d1dfd36b4ba95e518851b52dfd47a34d1ca0bd3e8de9f63d2ff1ca81305755dbc237ab0ce21ced89031f24bb97c46b64bac4ba4f6f40b674b219927df93f8a9941fcd65c77c1f87c5d
+      modulus_length: 2048
+      not_after: '1568701280'
+      not_before: '1537165280'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: projects.webcrayons.com.au
+      validation_type: ~
+    projects_webcrayons_com_au_dd265_05395_1545004799_6da03ea464a1bda02f38c9dabf6f7f62: 
+      created: '1537228202'
+      domains: 
+        - projects.webcrayons.com.au
+        - cpanel.projects.webcrayons.com.au
+        - mail.projects.webcrayons.com.au
+        - webdisk.projects.webcrayons.com.au
+        - webmail.projects.webcrayons.com.au
+        - www.projects.webcrayons.com.au
+      friendly_name: Cert for “projects.webcrayons.com.au” 1537228202.0
+      id: projects_webcrayons_com_au_dd265_05395_1545004799_6da03ea464a1bda02f38c9dabf6f7f62
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: dd2650c627b12f4656d904eb038127772dfcd1c305b3bed86c5befcce4bb253805b5667eb509fe8c612c00988c54555c49305128353bfcdee5ce917cf40c19e6a005b5f618de4ab6c9059be430dc861af301b6f2758376f1f5c18ca2d6d2f74f565c13b4fe147b4b53c8ef236ef7a8c64cf075c96cd043b481fa957edc4ee6659dff4797860dc6cf61bea1c511c98d6f6b8c375af661bfa288e15022edfb1f2ff0adc4444b13a2873a5339f0200f9677cd3b046ab0a3578b4698ec44fb823e4b87818b450aff3ccd8da924e44ebb606ef60a511a81888227d66e19c4a2778e7c5d9038c5642092828a3bb3d0f4f9cdf2f7683ee104bf5df4c451beb753205395
+      modulus_length: 2048
+      not_after: '1545004799'
+      not_before: '1537142400'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: projects.webcrayons.com.au
+      validation_type: dv
+  key: 
+    a0808_87c5d_d2eb6b9b39de2c61183201cf57b23d2e: 
+      created: '1537165280'
+      friendly_name: Key for “projects.webcrayons.com.au”
+      id: a0808_87c5d_d2eb6b9b39de2c61183201cf57b23d2e
+      modulus: a0808fb7dedeed3066a43a6f62c76d1053ba10775b373f5974daaa43c58ba0770f35f5e2ccb9a2fddec5ff6340fd515792fd2bbb47ff772baabf5064094684d16cb172bbcd0785c7838e9619deb2ff35bf2fb29e6d49f35c47f3ad5806b0fdd4a63cf1ebe7cfad1bc93546f39bfee1862a777db53d921e74361cdda0f949f015464151c054510b30dca0090009ad9b747bc186024c2842ea20e5a087bb692879b5df7566b1eafff32d14d1fe8887f05ba1a3ca29b9ea37d1dfd36b4ba95e518851b52dfd47a34d1ca0bd3e8de9f63d2ff1ca81305755dbc237ab0ce21ced89031f24bb97c46b64bac4ba4f6f40b674b219927df93f8a9941fcd65c77c1f87c5d
+      modulus_length: 2048
+    dd265_05395_2a2a269376bbc7ac5abaac5e5bd22fc8: 
+      created: '1537228202'
+      friendly_name: Key for “projects.webcrayons.com.au” 1537228202.0
+      id: dd265_05395_2a2a269376bbc7ac5abaac5e5bd22fc8
+      modulus: dd2650c627b12f4656d904eb038127772dfcd1c305b3bed86c5befcce4bb253805b5667eb509fe8c612c00988c54555c49305128353bfcdee5ce917cf40c19e6a005b5f618de4ab6c9059be430dc861af301b6f2758376f1f5c18ca2d6d2f74f565c13b4fe147b4b53c8ef236ef7a8c64cf075c96cd043b481fa957edc4ee6659dff4797860dc6cf61bea1c511c98d6f6b8c375af661bfa288e15022edfb1f2ff0adc4444b13a2873a5339f0200f9677cd3b046ab0a3578b4698ec44fb823e4b87818b450aff3ccd8da924e44ebb606ef60a511a81888227d66e19c4a2778e7c5d9038c5642092828a3bb3d0f4f9cdf2f7683ee104bf5df4c451beb753205395
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a0808fb7dedeed3066a43a6f62c76d1053ba10775b373f5974daaa43c58ba0770f35f5e2ccb9a2fddec5ff6340fd515792fd2bbb47ff772baabf5064094684d16cb172bbcd0785c7838e9619deb2ff35bf2fb29e6d49f35c47f3ad5806b0fdd4a63cf1ebe7cfad1bc93546f39bfee1862a777db53d921e74361cdda0f949f015464151c054510b30dca0090009ad9b747bc186024c2842ea20e5a087bb692879b5df7566b1eafff32d14d1fe8887f05ba1a3ca29b9ea37d1dfd36b4ba95e518851b52dfd47a34d1ca0bd3e8de9f63d2ff1ca81305755dbc237ab0ce21ced89031f24bb97c46b64bac4ba4f6f40b674b219927df93f8a9941fcd65c77c1f87c5d: 
+        projects_webcrayons_com_au_a0808_87c5d_1568701280_fdc82326bf65083dfa705dd4c55616ed: ~
+      dd2650c627b12f4656d904eb038127772dfcd1c305b3bed86c5befcce4bb253805b5667eb509fe8c612c00988c54555c49305128353bfcdee5ce917cf40c19e6a005b5f618de4ab6c9059be430dc861af301b6f2758376f1f5c18ca2d6d2f74f565c13b4fe147b4b53c8ef236ef7a8c64cf075c96cd043b481fa957edc4ee6659dff4797860dc6cf61bea1c511c98d6f6b8c375af661bfa288e15022edfb1f2ff0adc4444b13a2873a5339f0200f9677cd3b046ab0a3578b4698ec44fb823e4b87818b450aff3ccd8da924e44ebb606ef60a511a81888227d66e19c4a2778e7c5d9038c5642092828a3bb3d0f4f9cdf2f7683ee104bf5df4c451beb753205395: 
+        projects_webcrayons_com_au_dd265_05395_1545004799_6da03ea464a1bda02f38c9dabf6f7f62: ~
+    subject.commonName: 
+      projects.webcrayons.com.au: 
+        projects_webcrayons_com_au_a0808_87c5d_1568701280_fdc82326bf65083dfa705dd4c55616ed: ~
+        projects_webcrayons_com_au_dd265_05395_1545004799_6da03ea464a1bda02f38c9dabf6f7f62: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “projects.webcrayons.com.au”: projects_webcrayons_com_au_a0808_87c5d_1568701280_fdc82326bf65083dfa705dd4c55616ed
+      Cert for “projects.webcrayons.com.au” 1537228202.0: projects_webcrayons_com_au_dd265_05395_1545004799_6da03ea464a1bda02f38c9dabf6f7f62
+  key: 
+    friendly_name: 
+      Key for “projects.webcrayons.com.au”: a0808_87c5d_d2eb6b9b39de2c61183201cf57b23d2e
+      Key for “projects.webcrayons.com.au” 1537228202.0: dd265_05395_2a2a269376bbc7ac5abaac5e5bd22fc8
+    modulus: 
+      a0808fb7dedeed3066a43a6f62c76d1053ba10775b373f5974daaa43c58ba0770f35f5e2ccb9a2fddec5ff6340fd515792fd2bbb47ff772baabf5064094684d16cb172bbcd0785c7838e9619deb2ff35bf2fb29e6d49f35c47f3ad5806b0fdd4a63cf1ebe7cfad1bc93546f39bfee1862a777db53d921e74361cdda0f949f015464151c054510b30dca0090009ad9b747bc186024c2842ea20e5a087bb692879b5df7566b1eafff32d14d1fe8887f05ba1a3ca29b9ea37d1dfd36b4ba95e518851b52dfd47a34d1ca0bd3e8de9f63d2ff1ca81305755dbc237ab0ce21ced89031f24bb97c46b64bac4ba4f6f40b674b219927df93f8a9941fcd65c77c1f87c5d: a0808_87c5d_d2eb6b9b39de2c61183201cf57b23d2e
+      dd2650c627b12f4656d904eb038127772dfcd1c305b3bed86c5befcce4bb253805b5667eb509fe8c612c00988c54555c49305128353bfcdee5ce917cf40c19e6a005b5f618de4ab6c9059be430dc861af301b6f2758376f1f5c18ca2d6d2f74f565c13b4fe147b4b53c8ef236ef7a8c64cf075c96cd043b481fa957edc4ee6659dff4797860dc6cf61bea1c511c98d6f6b8c375af661bfa288e15022edfb1f2ff0adc4444b13a2873a5339f0200f9677cd3b046ab0a3578b4698ec44fb823e4b87818b450aff3ccd8da924e44ebb606ef60a511a81888227d66e19c4a2778e7c5d9038c5642092828a3bb3d0f4f9cdf2f7683ee104bf5df4c451beb753205395: dd265_05395_2a2a269376bbc7ac5abaac5e5bd22fc8

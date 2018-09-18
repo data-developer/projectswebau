@@ -1,0 +1,134 @@
+# Webalizer V2.23-08 Incremental Data - 09/17/2018 09:56:53
+2018 9 17 9 56 53
+12 12 1 6 0 0 8588261 1 1 1
+1 10 10 17 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 12 8588261 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 8585651 0
+0 0 0 0
+10 10 2610 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/projectswebau/public_html/.htaccess
+0 1 34838304 345 0 0
+/home/projectswebau/public_html/sakawater/Home-page_O1_V1.jpg
+0 1 0 4525825 0 0
+/home/projectswebau/public_html/sakawater/home-1.html
+0 4 34837952 1313 0 0
+/home/projectswebau/public_html/sakawater/home-2.html
+0 4 34838032 952 0 0
+/home/projectswebau/public_html/
+0 1 34838176 0 1 0
+/home/projectswebau/public_html/sakawater/Home-page_O1_V2.jpg
+0 1 0 4059826 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.78.149.4
+0 12 12 8588261 1 1537178055
+/home/projectswebau/public_html/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+103.78.149.4
+0 12 12 8588261 1 1537178055
+/home/projectswebau/public_html/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+prince@projects.webcrayons.com.au
+0 12 12 8588261 2 1537178055
+# End Of Table - usernames
