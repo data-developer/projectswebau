@@ -234,3 +234,81 @@ git branch
 git add .
 #1537332600
 git commit
+#1537332745
+git branch
+#1537332753
+git add .
+#1537332772
+git commit -m "new- changes"
+#1537332798
+git push origin new1
+#1537332894
+git checkout new2
+#1537332903
+git push origin new2
+#1537333265
+git status
+#1537333274
+git log
+#1537333404
+git checkout new1
+#1537333557
+git checkout new2
+#1537333614
+git add .
+#1537333625
+git commit -m "new2 change"
+#1537333634
+git push origin new2
+#1537333676
+git checkout master
+#1537333790
+git push master new1
+#1537333846
+git checkout new1
+#1537333859
+git push master new1
+#1537333883
+git pull
+#1537333919
+git pull master new1
+#1537334007
+git checkout master
+#1537335344
+git merge master
+#1537335361
+git branch
+#1537335445
+git merge new1
+#1537335462
+git merge new2
+#1537335483
+git checkout new2
+#1537335544
+git add .
+#1537335565
+git commit -m "new 2"
+#1537335575
+git checkout master
+#1537335600
+git merge new2
+#1537335616
+git merge new1
+#1537335640
+git branch
+#1537335684
+git checkout new2
+#1537335730
+git add .
+#1537335744
+git commit -m "changes new2"
+#1537335754
+git merge master
+#1537336119
+git branch
+#1537336129
+git checkout master
+#1537336152
+git merge new1
+#1537336159
+git merge new2
