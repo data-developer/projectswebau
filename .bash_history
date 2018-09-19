@@ -366,3 +366,121 @@ git branch -D branch-2
 git branch
 #1537337600
 git checkout -b b1
+#1537337763
+git branch
+#1537337773
+git checkout -b b1
+#1537337784
+git merge
+#1537337826
+you need to resolve your current index first
+#1537337887
+git reset --merge
+#1537337924
+git pull origin master
+#1537337961
+git status
+#1537337986
+git merge --abort
+#1537338020
+git push 
+#1537338052
+git status
+#1537338191
+git rm -r public_html/test.html
+#1537338233
+git pull
+#1537338270
+git add .
+#1537338281
+git commit -m "test"
+#1537338292
+git status
+#1537338316
+git checkout -b b1
+#1537338327
+git checkout -b b2
+#1537338333
+git branch
+#1537338376
+git add .
+#1537338398
+git commit -m "branch 2"
+#1537338412
+git checkout b1
+#1537338442
+git add .
+#1537338449
+git commit -m "branch 1"
+#1537338471
+git merge b1 b2
+#1537338507
+git branch
+#1537338516
+git checkout master
+#1537338525
+git merge b1 b2
+#1537338589
+git branch
+#1537338616
+git add .
+#1537338631
+git commit -m "after merge"
+#1537338647
+git checkout master
+#1537338665
+git merge bi b2
+#1537338689
+git status
+#1537338731
+git merge b1 b2
+#1537338761
+git merge b2
+#1537338777
+git checkout b2
+#1537339477
+git checkout master
+#1537339486
+git merge b2
+#1537339500
+git merge b1
+#1537339634
+git diff b2
+#1537339722
+git branch
+#1537339849
+git checkout -b b3
+#1537339854
+git branch
+#1537339901
+git add .
+#1537339913
+git commit -m "change in b3"
+#1537339931
+git checkout master
+#1537339937
+git branch
+#1537339945
+git merge b3
+#1537340050
+git checkout b3
+#1537340085
+git add .
+#1537340101
+git commit -m "change b3"
+#1537340113
+git checkout b2
+#1537340157
+git add .
+#1537340164
+git commit -m "change b2"
+#1537340169
+git checkout b1
+#1537340205
+git add .
+#1537340211
+git commit -m "change b1"
+#1537340223
+git checkout master
+#1537340236
+git merge b1
