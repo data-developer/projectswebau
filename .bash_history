@@ -142,3 +142,95 @@ git add .
 git commit -m "style"
 #1537265205
 git log
+#1537265338
+git push
+#1537265357
+git log
+#1537266478
+git add .
+#1537266494
+git commit -m "two changes"
+#1537266499
+git log
+#1537266604
+git add .
+#1537266615
+git commit -m "cha"
+#1537266621
+git logo
+#1537266625
+git log
+#1537266655
+git push origin 0d33515a19b3ce73519729f74b3cbb753ed75a9e
+#1537266697
+git push origin 0d33515a19b3ce73519729f74b3cbb753ed75a9e:master
+#1537266722
+git log
+#1537266855
+git status
+#1537267230
+git cherry-pick c7efa9b965bd2fd8bc890c1bc6053c8b93bb2407
+#1537267262
+git log
+#1537267287
+git push
+#1537267305
+git log
+#1537267345
+git cherry-pick c7efa9b965bd2fd8bc890c1bc6053c8b93bb2407
+#1537269152
+git --help
+#1537269213
+git --version
+#1537269560
+git show
+#1537246907
+ls
+#1537246913
+cd public_html/
+#1537246917
+git init
+#1537247009
+git add .
+#1537247165
+git remote add origin https://github.com/data-developer/projectswebau.git
+#1537247172
+git push -u origin master
+#1537247198
+git remote add origin https://github.com/data-developer/projectswebau.git
+#1537247204
+git push -u origin master
+#1537247286
+git commit -m "first commit"
+#1537331894
+git checkout -b [new-1]
+#1537331910
+git checkout -b [new_1]
+#1537331919
+git checkout -b [new1]
+#1537331977
+git checkout -b new1
+#1537332056
+git branch
+#1537332092
+git checkout  new1
+#1537332118
+git checkout -b new2
+#1537332126
+git branch
+#1537332144
+git checkout new1
+#1537332213
+git pull
+#1537332257
+git pull origin new1
+#1537332274
+git pull origin master
+#1537332364
+git push origin new1
+#1537332580
+git branch
+#1537332596
+git add .
+#1537332600
+git commit
