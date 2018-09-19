@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 09/18/2018 06:02:57
-2018 9 18 6 2 57
-123 93 9 20 7 11 126973456 44 12 0
-3 4 33 17 18
+# Webalizer V2.23-08 Incremental Data - 09/19/2018 06:13:32
+2018 9 19 6 13 32
+133 100 9 21 8 13 126973940 51 13 0
+1 14 33 17 19
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -20,7 +20,7 @@
 0 0 0 0 0 0
 82 54 114324088 7 40 10
 41 39 12649368 3 4 2
-0 0 0 0 0 0
+10 7 484 1 7 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -39,7 +39,7 @@
 0 0 0 0
 0 0 0 0
 4 4 8586603 2
-4 2 4060302 2
+14 9 4060786 9
 9 7 21231575 2
 5 3 13111476 0
 32 21 30756720 22
@@ -60,7 +60,7 @@
 0
 0
 0
-93
+100
 0
 0
 0
@@ -78,7 +78,7 @@
 0
 0
 0
-13
+16
 0
 0
 0
@@ -102,39 +102,41 @@
 /.well-known/pki-validation/8506DB865B128235C9441F1102781D58.txt
 0 1 0 64 0 0
 /sakawater/Home-page_O1_V2.jpg
-0 4 15127136 16239304 0 0
+0 4 0 16239304 0 0
 /.well-known/pki-validation/15CF27F65216EEE948C51F4724AA4089.txt
-0 1 7421932185906577408 64 0 0
+0 1 0 64 0 0
+/test.html
+0 7 0 484 1 0
 /.well-known/pki-validation/E4C4EA5D98DED4437C7B2D3FB82AE248.txt
 0 2 0 154 0 0
 /.well-known/pki-validation/348E667F1E32DFAF90FE2B2EA034CABD.txt
 0 12 0 924 0 0
 /.well-known/pki-validation/E046C650BCA57A9C8F6048B162A1D1E5.txt
-0 1 4 64 0 0
+0 1 0 64 0 0
 /.well-known/pki-validation/DD1EC335A324502F82E91B943400D994.txt
-0 1 9 64 0 0
+0 1 0 64 0 0
 /.well-known/pki-validation/DBD578685F751DB9463595A90ED1BE96.txt
 0 5 0 385 0 0
 /sakawater/home-2.html
-0 12 15112544 5236 3 0
+0 12 0 5236 3 1
 /sakawater/images/Home-page_O1_V1.jpg
-0 15 15112304 51548124 0 0
+0 15 0 51548124 0 0
 /sakawater/Home-page_O1_V1.jpg
-0 6 15127008 22629125 0 0
+0 6 0 22629125 0 0
 /.well-known/pki-validation/3A05D1785D2EEBB4B17D6D1AE853312B.txt
-0 1 15138688 64 0 0
+0 1 0 64 0 0
 /.well-known/pki-validation/BDF0C0CBEB37B93408E448D6B2B418F6.txt
 0 4 0 308 0 0
 /sakawater/home-1.html
-0 17 15112192 6073 6 4
+0 17 0 6073 6 4
 /
-0 9 15126416 2322 3 1
+0 9 0 2322 3 1
 /.well-known/pki-validation/7BC88FB29C42742EC04AB89DB250BCB4.txt
 0 3 0 231 0 0
 /sakawater/images/Home-page_O1_V2.jpg
-0 11 15112656 36538434 0 0
+0 11 0 36538434 0 0
 /sakawater/
-0 2 15111456 2123 0 0
+0 2 0 2123 0 0
 /.well-known/pki-validation/E3C82F17F6A7BE9B2154B14450F5F1F7.txt
 0 1 0 64 0 0
 /.well-known/pki-validation/8CF126DD08C7D8581D73D8B42EDC183F.txt
@@ -157,8 +159,8 @@ easywc.webcrayons.biz
 0 1 1 625 1 1537177731
 /
 103.78.149.4
-0 46 30 61039796 4 1537192397
-/sakawater/home-2.html
+0 56 37 61040280 5 1537337612
+/test.html
 c114-76-77-194.thoms3.vic.optusnet.com.au
 0 3 1 476 1 1537193051
 /sakawater/home-2.html
@@ -170,15 +172,9 @@ global669.lnk.telstra.net
 /sakawater/home-2.html
 # End Of Table - sites (monthly)
 # -sites- (daily)
-secure.comodo.net
-0 3 3 231 0 0
--
-easywc.webcrayons.biz
-0 30 30 2232 0 0
--
-global669.lnk.telstra.net
-0 8 6 12646905 2 1537250577
-/sakawater/home-2.html
+103.78.149.4
+0 10 7 484 1 1537337612
+/test.html
 # End Of Table - sites (daily)
 # -referrers- 
 http://projects.webcrayons.com.au/sakawater/Home-page_O1_V1.jpg
@@ -188,15 +184,19 @@ http://projects.webcrayons.com.au/sakawater/home-1.html
 http://projects.webcrayons.com.au/sakawater/home-2.html
 0 13
 - (Direct Request)
-0 84
+0 91
 78.129.208.162
 0 1
 http://projects.webcrayons.com.au/sakawater/
 0 1
 http://projects.webcrayons.com.au/
 0 3
+http://projects.webcrayons.com.au/test.html
+0 3
 # End Of Table - referrers
 # -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
+0 3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
 0 5
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
@@ -210,7 +210,9 @@ COMODO DCV
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
 0 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
-0 39
+0 44
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 2
 WhatsApp/2.18.81 i
 0 1
 Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa

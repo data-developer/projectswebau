@@ -8,33 +8,33 @@ AWSTATS DATA FILE 7.6 (build 20161204)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2028                
-POS_TIME 2710                
-POS_VISITOR 3429                
-POS_DAY 3874                
-POS_DOMAIN 4050                
-POS_LOGIN 4310                
-POS_ROBOT 4465                
-POS_WORMS 4597                
-POS_EMAILSENDER 4728                
-POS_EMAILRECEIVER 4871                
-POS_SESSION 4947                
-POS_SIDER 5126                
-POS_FILETYPES 5351                
-POS_DOWNLOADS 5470                
-POS_OS 6389                
-POS_BROWSER 6517                
-POS_SCREENSIZE 6715                
-POS_UNKNOWNREFERER 6789                
-POS_UNKNOWNREFERERBROWSER 6902                
-POS_ORIGIN 7010                
-POS_SEREFERRALS 7143                
-POS_PAGEREFS 7287                
-POS_SEARCHWORDS 7435                
-POS_KEYWORDS 7587                
-POS_MISC 2374                
-POS_ERRORS 7646                
-POS_CLUSTER 4166                
-POS_SIDER_404 7754                
+POS_TIME 2706                
+POS_VISITOR 6999                
+POS_DAY 7432                
+POS_DOMAIN 3253                
+POS_LOGIN 3513                
+POS_ROBOT 3668                
+POS_WORMS 3800                
+POS_EMAILSENDER 3931                
+POS_EMAILRECEIVER 4074                
+POS_SESSION 7559                
+POS_SIDER 7748                
+POS_FILETYPES 4209                
+POS_DOWNLOADS 4328                
+POS_OS 5247                
+POS_BROWSER 5385                
+POS_SCREENSIZE 5607                
+POS_UNKNOWNREFERER 5681                
+POS_UNKNOWNREFERERBROWSER 5794                
+POS_ORIGIN 5902                
+POS_SEREFERRALS 6035                
+POS_PAGEREFS 6179                
+POS_SEARCHWORDS 6327                
+POS_KEYWORDS 6479                
+POS_MISC 2370                
+POS_ERRORS 6538                
+POS_CLUSTER 3369                
+POS_SIDER_404 6646                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -46,11 +46,11 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20180918060257 123 26641 13415905149744
+LastLine 20180919061332 10 1926 12510347741886
 FirstTime 20180917073429
-LastTime 20180918060257
-LastUpdate 20180918061318 123 0 123 0 0
-TotalVisits 10                  
+LastTime 20180919061332
+LastUpdate 20180919061354 10 0 10 0 0
+TotalVisits 11                  
 TotalUnique 7                   
 MonthHostsKnown 0                   
 MonthHostsUnknown 9                   
@@ -58,16 +58,16 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-DirectorSupport 0 0 0
-AddToFavourites 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-PDFSupport 0 0 0
-JavaEnabled 0 0 0
-RealPlayerSupport 0 0 0
 QuickTimeSupport 0 0 0
 JavascriptDisabled 0 0 0
-FlashSupport 0 0 0
+DirectorSupport 0 0 0
 TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
@@ -78,7 +78,7 @@ BEGIN_TIME 24
 3 0 0 0 0 0 0
 4 0 0 0 0 0 0
 5 2 4 8586603 0 0 0
-6 2 3 4060302 0 1 0
+6 9 10 4060786 0 4 0
 7 2 8 21231575 0 1 0
 8 0 3 13111476 0 2 0
 9 19 27 35282293 3 6 252
@@ -98,31 +98,10 @@ BEGIN_TIME 24
 23 0 0 0 0 0 0
 END_TIME
 
-# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
-# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
-# The 25 first Hits must be first (order not required for others)
-BEGIN_VISITOR 9
-103.78.149.4 20 34 61039068 20180917135317
-120.151.222.5 9 16 29820587 20180918060257 20180918051256 /sakawater/home-2.html
-117.197.13.6 4 9 17172254 20180917100431
-106.204.199.94 2 4 8586603 20180917180328
-14.201.105.117 2 4 8586603 20180917112059
-114.76.77.194 1 3 476 20180917140411
-139.59.42.246 1 1 625 20180917094851
-78.129.208.162 0 30 2232 
-91.199.212.132 0 3 231 
-END_VISITOR
-
-# Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 2
-20180917 35 64 112559311 9
-20180918 4 40 12649368 1
-END_DAY
-
 # Domain - Pages - Hits - Bandwidth
 # The 25 first Pages must be first (order not required for others)
 BEGIN_DOMAIN 3
-in 26 47 86797925
+in 33 54 86798409
 au 13 24 38408291
 gb 0 33 2463
 END_DOMAIN
@@ -156,28 +135,11 @@ END_EMAILSENDER
 BEGIN_EMAILRECEIVER 0
 END_EMAILRECEIVER
 
-# Session range - Number of visits
-BEGIN_SESSION 4
-0s-30s 5
-30s-2mn 1
-15mn-30mn 1
-5mn-15mn 2
-END_SESSION
-
-# URL - Pages - Bandwidth - Entry - Exit
-# The 25 first Pages must be first (order not required for others)
-BEGIN_SIDER 4
-/sakawater/home-1.html 16 5597 5 3
-/sakawater/home-2.html 12 5236 2 4
-/ 9 2322 3 2
-/sakawater/ 2 2123 0 0
-END_SIDER
-
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
 BEGIN_FILETYPES 3
-jpg 32 125190938 0 0
-html 39 15278 0 0
 txt 33 2463 0 0
+jpg 32 125190938 0 0
+html 46 15762 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
@@ -188,33 +150,35 @@ BEGIN_DOWNLOADS 12
 /.well-known/pki-validation/7BC88FB29C42742EC04AB89DB250BCB4.txt 3 0 231
 /.well-known/pki-validation/E4C4EA5D98DED4437C7B2D3FB82AE248.txt 2 0 154
 /.well-known/pki-validation/15CF27F65216EEE948C51F4724AA4089.txt 1 0 64
+/.well-known/pki-validation/3A05D1785D2EEBB4B17D6D1AE853312B.txt 1 0 64
+/.well-known/pki-validation/DD1EC335A324502F82E91B943400D994.txt 1 0 64
+/.well-known/pki-validation/E3C82F17F6A7BE9B2154B14450F5F1F7.txt 1 0 64
+/.well-known/pki-validation/8CF126DD08C7D8581D73D8B42EDC183F.txt 1 0 77
 /.well-known/pki-validation/E046C650BCA57A9C8F6048B162A1D1E5.txt 1 0 64
 /.well-known/pki-validation/8506DB865B128235C9441F1102781D58.txt 1 0 64
-/.well-known/pki-validation/8CF126DD08C7D8581D73D8B42EDC183F.txt 1 0 77
-/.well-known/pki-validation/E3C82F17F6A7BE9B2154B14450F5F1F7.txt 1 0 64
-/.well-known/pki-validation/DD1EC335A324502F82E91B943400D994.txt 1 0 64
-/.well-known/pki-validation/3A05D1785D2EEBB4B17D6D1AE853312B.txt 1 0 64
 END_DOWNLOADS
 
 # OS ID - Hits
-BEGIN_OS ID - Hits - Pages 5
+BEGIN_OS ID - Hits - Pages 6
+macosx 12 7
 Unknown 33 0
-win10 34 20
-macosx 10 5
-win7 10 5
+linux 1 1
+win10 38 24
 ios_iphone 17 9
+win7 10 5
 END_OS
 
 # Browser ID - Hits - Pages
-BEGIN_BROWSER 8
-safari12.0 4 2
-chrome68.0.3440.106 32 20
+BEGIN_BROWSER 9
 safari11.1.2 4 2
-chrome69.0.3497.92 9 4
-Unknown 33 0
-opera55.0.2994.56 4 1
-safari11.0 17 9
+chrome55.0.2883.87 1 1
+safari12.0 4 2
+chrome68.0.3440.106 36 24
 firefox33.0 1 1
+opera55.0.2994.56 4 1
+chrome69.0.3497.92 11 6
+Unknown 33 0
+safari11.0 17 9
 END_BROWSER
 
 # Screen size - Hits
@@ -233,7 +197,7 @@ END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 37 79
+From0 44 86
 From1 1 1
 From2 0 0
 From3 0 0
@@ -272,3 +236,44 @@ BEGIN_SIDER_404 2
 /sakawater/ 2 -
 /sakawater/home-2/.html 1 -
 END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+103.78.149.4 27 41 61039552 20180919061332 20180919060547 /test.html
+120.151.222.5 9 16 29820587 20180918060257
+117.197.13.6 4 9 17172254 20180917100431
+106.204.199.94 2 4 8586603 20180917180328
+14.201.105.117 2 4 8586603 20180917112059
+114.76.77.194 1 3 476 20180917140411
+139.59.42.246 1 1 625 20180917094851
+91.199.212.132 0 3 231 
+78.129.208.162 0 30 2232 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20180917 35 64 112559311 9
+20180918 4 40 12649368 1
+20180919 7 7 484 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 1
+15mn-30mn 1
+0s-30s 5
+30mn-1h 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/sakawater/home-1.html 16 5597 5 3
+/sakawater/home-2.html 12 5236 2 5
+/ 9 2322 3 2
+/test.html 7 484 1 0
+/sakawater/ 2 2123 0 0
+END_SIDER
