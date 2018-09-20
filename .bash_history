@@ -484,3 +484,27 @@ git commit -m "change b1"
 git checkout master
 #1537340236
 git merge b1
+#1537340369
+git branch
+#1537340386
+git merge b3
+#1537340407
+git add .
+#1537340426
+git commit -m "change in mater"
+#1537340436
+git merge b3
+#1537340880
+git branch
+#1537340924
+git merge b2
+#1537341007
+git add .3
+#1537341014
+git add .
+#1537341030
+git commit -m "changes in mat"
+#1537341049
+git merge b3 b2 b1
+#1537341074
+git merge b3
